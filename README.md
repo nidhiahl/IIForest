@@ -1,2 +1,2 @@
 # IIForest
-incremental learning and unlearning of isolation forest
+Coming soon with all details after including future work.
